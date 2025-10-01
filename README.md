@@ -52,7 +52,8 @@ Registered a free `.me` domain via Namecheap (through GitHub Student Pack).
 ---
 
 ### 7b. Domain DNS Setup
-Configured DNS records to point the domain to the Google Cloud VM.  
+Configured DNS records to point the domain to the Google Cloud VM.
+Domain: **http://www.hha504flaskdemo.me:5003**  
 ![Screenshot 7b](screenshots/screenshot7b.png)
 
 ---
