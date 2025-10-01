@@ -1,6 +1,9 @@
-# Cloud VM Networking Flask Project
+# Flask on Cloud VM (Assignment 2)
 
-This project demonstrates how to set up a **Python Flask app** on a Google Cloud VM with proper firewall rules, networking, and domain configuration.
+## Student Info
+- **Name:** Jonathan Jafari  
+- **Cloud Provider:** Google Cloud Platform (GCP)  
+- **Video Recording (Zoom/Loom):** [Click here to watch](PASTE_YOUR_LINK_HERE)  
 
 ---
 
@@ -58,6 +61,3 @@ Configured DNS records to point the domain to the Google Cloud VM.
 - Flask app is accessible via the VM external IP on port **5003**.  
 - Bonus: Linked a custom domain (Namecheap → GCP External IP).  
 
----
-
-### Repository Structure
