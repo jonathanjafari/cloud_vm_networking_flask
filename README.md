@@ -3,7 +3,7 @@
 ## Student Info
 - **Name:** Jonathan Jafari  
 - **Cloud Provider:** Google Cloud Platform (GCP)  
-- **Video Recording (Zoom/Loom):** [Click here to watch](https://www.loom.com/share/9fdd7a522dae4f37a3390ea0e4d8f364?sid=a14f9334-6820-46ba-8a4e-bb3509ff3bde)  
+- **Video Recording (Zoom/Loom):** [Click here to watch](https://www.loom.com/share/9fdd7a522dae4f37a3390ea0e4d8f364?sid=56c8d744-531a-4f7c-81f2-125525e5578b)  
 
 ---
 
